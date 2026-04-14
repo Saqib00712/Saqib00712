@@ -115,6 +115,5 @@ To become a professional AI Engineer building scalable and intelligent AI system
 
 ---
 
-### 🚀 Featured Projects (coming soon)
 ---
 
