@@ -115,33 +115,6 @@ To become a professional AI Engineer building scalable and intelligent AI system
 
 ---
 
-### 🚀 Featured Projects (Organized by Layer)
-
-*Click repository titles to view code, documentation, and demos.*
-
-#### 🔹 Layer 1: LLM Fine-Tuning & Optimization
-**[Project: coming soon]** 
-- **Description:** Fine-tuned Llama 3 using **QLoRA** and **DPO** on a custom dataset to improve domain-specific instruction following.
-- **Tech:** PyTorch, Hugging Face PEFT, TRL, Weights & Biases.
-- **Outcome:** Reduced inference cost by 40% while maintaining 95% of GPT-4 performance on custom evaluation set.
-
-#### 🔹 Layer 2: Retrieval-Augmented Generation (RAG)
-**[Project: coming soon]**
-- **Description:** Built a production-grade RAG pipeline using **LangChain** and **Chroma DB** with hybrid search (dense + sparse) and re-ranking.
-- **Tech:** LangChain, Sentence Transformers, FAISS, BM25, Gradio.
-- **Outcome:** Achieved 98% context retrieval accuracy on a 10,000-page technical manual set.
-
-#### 🔹 Layer 3: Multimodal Applications
-**[Project: coming soon]**
-- **Description:** A web application that generates a story image (**DALL-E**), narrates it (**Whisper/EdgeTTS**), and provides a caption.
-- **Tech:** Hugging Face Diffusers, OpenAI API, Flask, LangChain.
-- **Outcome:** Deployed as a serverless function on Modal/Replit.
-
-#### 🔹 Layer 4: Agentic AI Systems
-**[Project: coming soon]**
-- **Description:** Orchestrated a multi-agent team using **CrewAI** (Researcher, Writer, Critic) to autonomously generate technical blog posts with citations.
-- **Tech:** CrewAI, LangGraph, Tavily Search API, Serper.
-- **Outcome:** End-to-end workflow that performs 3x faster than manual research and drafting.
-
+### 🚀 Featured Projects (coming soon)
 ---
 
