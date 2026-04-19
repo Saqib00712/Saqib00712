@@ -1,119 +1,59 @@
-# 👋 Hi, I'm Muhammad Saqib ...
+# Muhammad Saqib
+### AI Engineer | Generative AI | RAG Systems | Agentic AI
 
-## 🚀 Aspiring AI Engineer | LLMs | RAG | AI Agents
-
-I am passionate about building real-world AI applications using **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, and **Agentic AI systems**.
-
-Currently, I am completing **IBM Generative AI Specializations** and building hands-on projects to strengthen my skills in modern AI development.
+AI engineer specializing in building real-world applications with Large Language Models, Retrieval-Augmented Generation, and multi-agent systems. Completed 15 IBM Generative AI certifications via Coursera (2025).
 
 ---
 
-## 🧠 What I'm Learning & Building
+## Projects
 
-* 🤖 AI Chatbots using LLM APIs
-* 📄 RAG-based Document Assistants
-* 🧠 AI Agents with reasoning workflows
-* 🖼 Multimodal AI (Text + Image)
-* ⚙️ Prompt Engineering & LLM pipelines
-
----
-
-## 📂 Featured Projects (Uploading Soon)
-
-### 📄 RAG Document Chatbot
-
-A document-based AI assistant that allows users to ask questions from PDFs using retrieval and LLMs.
-
-🔧 Tech Used:
-Python • LangChain • Vector Databases • LLM APIs
+| Project | Description | Tech |
+|---------|-------------|------|
+| [ReAct Agent with LangGraph](https://github.com/Saqib00712/React_Agent) | Reasoning + Acting agent that thinks through problems, calls tools, and loops until a final answer is reached | LangGraph, GPT-4o-mini, Tavily |
+| [Reflection Agent](https://github.com/Saqib00712/Building-AI-Agents-and-Agentic-Workflows) | Self-improving agent that generates, critiques, and refines its own outputs through iterative feedback loops | LangGraph, IBM Granite, LangChain |
+| [Tool Calling Agent](https://github.com/Saqib00712/IBM_GenerativeAI_Engineering-With-LLMS) | AI agent that dynamically calls custom YouTube tools — search, transcript fetch, metadata, and summarization | LangChain, GPT-4o-mini, yt-dlp |
+| [Data Visualization Agent](https://github.com/Saqib00712/IBM_GenerativeAI_Engineering-With-LLMS) | Conversational agent that generates charts and graphs from CSV data using plain English queries | LangChain, IBM Granite, pandas, matplotlib |
+| [IBM RAG Specialization](https://github.com/Saqib00712/IBM_RAG_Specialization) | End-to-end RAG pipelines using LangChain, LlamaIndex, ChromaDB, and FAISS with Gradio interfaces | LangChain, LlamaIndex, ChromaDB, FAISS |
+| [Multimodal AI Applications](https://github.com/Saqib00712/Build-Multimodal-Generative-AI-Applications) | AI apps integrating text, speech, and images using Whisper, DALL-E, and Llama 4 | HuggingFace, Gradio, Flask, Whisper |
 
 ---
 
-### 🤖 AI Agent Workflow System
+## Skills
 
-An intelligent workflow system that performs multi-step reasoning and executes tasks using tools.
+**Languages:** Python
 
-🔧 Tech Used:
-Python • Agent Frameworks • Prompt Engineering
+**AI & ML:** Large Language Models · Retrieval-Augmented Generation · Fine-Tuning (LoRA, QLoRA, RLHF, DPO) · Prompt Engineering · AI Agents · Multimodal AI
 
----
+**Frameworks:** LangChain · LangGraph · LlamaIndex · HuggingFace · PyTorch · CrewAI · AutoGen · Gradio · Flask
 
-### 🖼 Multimodal AI Application
+**Databases:** ChromaDB · FAISS · Vector Databases
 
-An AI system that processes both text and images to generate insights and responses.
-
-🔧 Tech Used:
-Python • Vision Models • LLM APIs
+**Tools:** Git · GitHub · Jupyter · WatsonX
 
 ---
 
-### ⚙️ LLM Engineering Toolkit
+## IBM Certifications (15 completed — 2025)
 
-A collection of experiments and mini-tools demonstrating prompt engineering and LLM usage patterns.
-
-🔧 Tech Used:
-Python • OpenAI API • Prompt Design
-
----
-
-## 🛠 Technical Skills
-
-**Languages:**
-Python
-
-**AI & Machine Learning:**
-Large Language Models (LLMs)
-Retrieval-Augmented Generation (RAG)
-Prompt Engineering
-AI Agents
-
-**Frameworks & Tools:**
-LangChain
-LangGraph
-Vector Databases
-Git & GitHub
+| Certification | Issued | Verify |
+|--------------|--------|--------|
+| Generative AI & LLMs: Architecture and Data Preparation | Jul 2025 | [Credly](https://www.credly.com/users/muhammad-saqib.361f9b8c) |
+| Generative AI Foundational Models for NLP | Jul 2025 | [Credly](https://www.credly.com/users/muhammad-saqib.361f9b8c) |
+| Generative AI Language Modeling with Transformers | Jul 2025 | [Credly](https://www.credly.com/users/muhammad-saqib.361f9b8c) |
+| Generative AI Engineering with Transformers & LLMs | Aug 2025 | [Credly](https://www.credly.com/users/muhammad-saqib.361f9b8c) |
+| Generative AI Advanced Fine-Tuning for LLMs | Sep 2025 | [Credly](https://www.credly.com/users/muhammad-saqib.361f9b8c) |
+| AI Agents Using RAG and LangChain | Sep 2025 | [Credly](https://www.credly.com/users/muhammad-saqib.361f9b8c) |
+| Generative AI Applications Specialist | Oct 2025 | [Credly](https://www.credly.com/users/muhammad-saqib.361f9b8c) |
+| Develop Generative AI Applications: Get Started | Oct 2025 | [Credly](https://www.credly.com/users/muhammad-saqib.361f9b8c) |
+| Build RAG Applications: Get Started | Oct 2025 | [Credly](https://www.credly.com/users/muhammad-saqib.361f9b8c) |
+| Vector Databases for RAG: An Introduction | Nov 2025 | [Credly](https://www.credly.com/users/muhammad-saqib.361f9b8c) |
+| Advanced RAG with Vector Databases and Retrievers | Dec 2025 | [Credly](https://www.credly.com/users/muhammad-saqib.361f9b8c) |
+| Build Multimodal Generative AI Applications | Dec 2025 | [Credly](https://www.credly.com/users/muhammad-saqib.361f9b8c) |
+| Fundamentals of Building AI Agents | Dec 2025 | [Credly](https://www.credly.com/users/muhammad-saqib.361f9b8c) |
+| Building AI Agents and Agentic Workflows Specialization | Dec 2025 | [Credly](https://www.credly.com/users/muhammad-saqib.361f9b8c) |
+| RAG for Generative AI Applications Specialization | Dec 2025 | [Credly](https://www.credly.com/users/muhammad-saqib.361f9b8c) |
 
 ---
 
-## 🚧 Currently Working On
+## Connect
 
-* Building production-style AI projects
-* Improving RAG system performance
-* Developing multi-agent workflows
-* Expanding multimodal AI capabilities
-
----
-
-## 📚 Certifications & Learning
-
-* IBM Generative AI Engineering with LLMs
-* IBM Building AI Agents and Agentic Workflows
-* IBM Multimodal Generative AI Applications
-* IBM RAG Specialization
-
----
-
-## 📫 Connect With Me
-
-* 🔗 GitHub: https://github.com/Saqib00712
-* 💼 LinkedIn: (https://www.linkedin.com/in/muhammad-saqib-68b9b3374/)
-* 📧 Email: (saqibkhosa649@gmail.com)
-
----
-
-⭐ **Goal:**
-To become a professional AI Engineer building scalable and intelligent AI systems.
-
-
-| Specialization / Certification | Status | Verification |
-| :--- | :--- | :--- |
-| **IBM RAG for Generative AI Applications** | Completed | [View Badge](https://www.credly.com/org/ibm/badge/rag-for-generative-ai-applications) |
-| **IBM Building AI Agents and Agentic Workflows** | Completed | [View Badge](https://www.credly.com/org/ibm/badge/building-ai-agents-and-agentic-workflows) |
-| **IBM Generative AI Engineering with Transformers & LLMs** | Completed | [View Badge](https://www.credly.com/org/ibm/badge/generative-ai-engineering-with-transformers-llms) |
-| **Build Multimodal Generative AI Applications** | Completed | [View Badge](https://www.credly.com/org/ibm/badge/build-multimodal-generative-ai-applications) |
-| *...plus 10+ additional IBM skill badges* | | *[See full transcript](https://www.credly.com/users/muhammad-saqib.361f9b8c)* |
-
----
-
----
-
+[LinkedIn](https://www.linkedin.com/in/muhammad-saqib-68b9b3374/) · [Credly](https://www.credly.com/users/muhammad-saqib.361f9b8c) · saqibkhosa649@gmail.com
