@@ -1,5 +1,5 @@
 # Muhammad Saqib
-### AI Engineer | Generative AI | RAG Systems | Agentic AI
+### AI Engineer | Generative AI · RAG Systems · Agentic AI · Multimodal AI
 
 AI engineer focused on building real-world applications with Large Language Models, Retrieval-Augmented Generation, and multi-agent systems. Completed 15 IBM Generative AI certifications via Coursera (July–December 2025).
 
@@ -9,12 +9,15 @@ AI engineer focused on building real-world applications with Large Language Mode
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [ReAct Agent](https://github.com/Saqib00712/React_Agent) | Reasoning + Acting agent that autonomously thinks through problems, calls external tools, observes results, and loops until reaching a final answer | LangGraph · GPT-4o-mini · Tavily API |
+| [ReAct Agent](https://github.com/Saqib00712/React_Agent) | Reasoning + Acting agent that autonomously thinks through problems, calls external tools, observes results, and loops until reaching a final answer | LangGraph · GPT-4o-mini · Tavily |
 | [Reflection Agent](https://github.com/Saqib00712/Reflection_Agent) | Self-improving agent that generates, critiques, and iteratively refines its own outputs through multi-turn feedback loops | LangGraph · IBM Granite · LangChain |
-| [YouTube AI Agent](https://github.com/Saqib00712/YouTube-AI-Agent-Tool-Calling-with-LangChain-GPT-4o) | Tool-calling agent that dynamically searches YouTube, fetches transcripts, extracts metadata, and generates video summaries | LangChain · GPT-4o · yt-dlp · pytube |
-| [DataWizard — Data Analysis Agent](https://github.com/Saqib00712/DataWizard-AI-Powered-Data-Analysis-Agent-LangChain-GPT-4o-) | Conversational agent that generates charts, graphs, and data insights from CSV files using plain English queries | LangChain · IBM Granite · pandas · matplotlib |
-| [IBM RAG Specialization](https://github.com/Saqib00712/IBM_RAG_Specialization) | End-to-end RAG pipelines with document loading, vector embeddings, similarity search, and QA bots | LangChain · LlamaIndex · ChromaDB · FAISS |
-| [Multimodal AI Applications](https://github.com/Saqib00712/Build-Multimodal-Generative-AI-Applications) | AI apps that integrate text, speech, and image processing for cross-modal tasks like captioning and storytelling | HuggingFace · Whisper · DALL-E · Gradio |
+| [YouTube AI Agent](https://github.com/Saqib00712/YouTube-AI-Agent-Tool-Calling-with-LangChain-GPT-4o) | Tool-calling agent that searches YouTube, fetches transcripts, extracts metadata, and generates video summaries | LangChain · GPT-4o · yt-dlp · pytube |
+| [DataWizard — Data Analysis Agent](https://github.com/Saqib00712/DataWizard-AI-Powered-Data-Analysis-Agent-LangChain-GPT-4o-) | Conversational agent that generates charts and insights from CSV files using plain English — no code required | LangChain · IBM Granite · pandas · matplotlib |
+| [Building Agentic RAG with LlamaIndex](https://github.com/Saqib00712/Building-Agentic-RAG-with-Llamaindex) | 4-phase project from router query engines to multi-document agents that reason, retrieve, and summarize across PDFs | LlamaIndex · OpenAI · GPT-3.5 |
+| [Multi-Agent Content Pipeline](https://github.com/Saqib00712/Multi-Agent-Content-Pipeline-CrewAI) | 3-agent pipeline — Research Analyst, Content Writer, and Social Media Strategist collaborate to research any topic and produce blog posts and social content | CrewAI · Llama 3.2 · Ollama · Serper |
+| [Mental Health AI Pipeline](https://github.com/Saqib00712/Mental-Health-AI-Pipeline-Using-Auto_Gen) | 2-agent pipeline that analyzes emotions from user input and recommends personalized therapy techniques — runs fully locally | AutoGen · Llama 3.2 · Ollama · Gradio |
+| [AI Meeting Assistant](https://github.com/Saqib00712/AI-Meeting-Assistant) | Transcribes meeting audio, corrects financial terminology, and generates structured meeting minutes with task lists | Whisper · Llama 3.2 · IBM Granite · LangChain |
+| [AI Nutrition Coach](https://github.com/Saqib00712/AI-Nutrition-Coach-Llama4) | Upload a food photo and get instant calorie counts, nutrient breakdowns, and health evaluations using multimodal vision AI | Llama 4 Maverick · IBM WatsonX · Flask |
 
 ---
 
@@ -22,17 +25,13 @@ AI engineer focused on building real-world applications with Large Language Mode
 
 **Language:** Python
 
-**AI & ML:**
-Large Language Models · Retrieval-Augmented Generation · Fine-Tuning (LoRA · QLoRA · RLHF · DPO) · Prompt Engineering · AI Agents · Multimodal AI · NLP
+**AI & ML:** Large Language Models · Retrieval-Augmented Generation · Fine-Tuning (LoRA · QLoRA · RLHF · DPO) · Prompt Engineering · AI Agents · Multimodal AI · NLP · Speech Recognition
 
-**Frameworks & Libraries:**
-LangChain · LangGraph · LlamaIndex · HuggingFace · PyTorch · CrewAI · AutoGen (AG2) · BeeAI · Gradio · Flask
+**Frameworks & Libraries:** LangChain · LangGraph · LlamaIndex · HuggingFace · PyTorch · CrewAI · AutoGen (AG2) · BeeAI · Gradio · Flask
 
-**Vector Databases:**
-ChromaDB · FAISS · Similarity Search · Embeddings
+**Vector Databases:** ChromaDB · FAISS · Similarity Search · Embeddings
 
-**Tools:**
-Git · GitHub · Jupyter Notebook · IBM WatsonX
+**Tools:** Git · GitHub · Jupyter · IBM WatsonX · Ollama
 
 ---
 
